@@ -273,7 +273,7 @@ button {
 .banner_section {
     padding-top: 40px;
     padding-bottom: 70px;
-    border-bottom: 80px solid #13a25d;
+    border-bottom: 80px solid #10063d;
 }
 .banner_main {
     width: 44%;
@@ -317,11 +317,11 @@ button {
 }
 .contact_bt a:hover {
     color: #ffffff;
-    background-color: #13a25d;
+    background-color: #12482e;
 }
 .contact_bt.active a {
     color: #ffffff;
-    background-color: #13a25d;
+    background-color: #053d22;
 }
 .readmore_bt {
     width: 170px;
@@ -341,7 +341,7 @@ button {
 }
 .readmore_bt a:hover {
     color: #ffffff;
-    background-color: #13a25d;
+    background-color: #0c3823;
 }
 
 .carousel-indicators {
@@ -383,7 +383,7 @@ button {
     position: absolute;
     width: 100px;
     height: 390px;
-    background-color: #13a25d;
+    background-color: #0c0445;
     left: 0px;
     right: initial;
     top: 0;
@@ -719,7 +719,7 @@ textarea#comment::placeholder {
 .send_bt a {
     width: 100%;
     float: left;
-    background-color: #13a25d;
+    background-color: #082e1c;
     color: #ffffff;
     text-align: center;
     padding: 14px 0px;
@@ -774,7 +774,7 @@ textarea#comment::placeholder {
     width: 100%;
     font-size: 20px;
     text-transform: uppercase;
-    color: #13a25d;
+    color: #0c4228;
     font-weight: bold;
     font-family: 'Roboto', sans-serif;
 }
@@ -799,7 +799,7 @@ textarea#comment::placeholder {
 }
 
 .testimonial_box:hover{
-    background-color: #13a25d;
+    background-color: #100641;
 }
 .testimonial_box:hover .dummy_text{
     color: #ffffff;
